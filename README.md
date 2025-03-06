@@ -7,7 +7,7 @@ Telegram Logger is a Laravel package for sending application logs to Telegram us
 Add this package to your Laravel project using Composer:
 
 ```sh
-composer require flash25ag/telegram-logger
+composer require flash25ag/laravel-telegram-logger
 ```
 
 ## Configuration
