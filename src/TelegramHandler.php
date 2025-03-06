@@ -5,7 +5,7 @@ namespace Flash25ag\TelegramLogger;
 use Exception;
 use Monolog\Logger;
 use Monolog\LogRecord;
-use App\Jobs\SendLogToTelegramJob;
+use Flash25ag\TelegramLogger\Jobs\SendLogToTelegramJob;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Queue;
 use Monolog\Handler\AbstractProcessingHandler;
